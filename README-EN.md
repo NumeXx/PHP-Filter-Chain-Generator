@@ -15,7 +15,7 @@ This project is a Go reimplementation of [Synacktiv's PHP Filter Chain Generator
    ```
 2. Compile the code into a binary
    ```bash
-   go build -o phpchain up.go
+   go build -o phpchain phpchain.go
    ```
 3. Move the binary to `/usr/bin`
    ```bash
