@@ -15,7 +15,7 @@ Proyek ini merupakan implementasi ulang dari [PHP Filter Chain Generator milik S
    ```
 2. Kompilasi kode menjadi binary
    ```bash
-   go build -o phpchain up.go
+   go build -o phpchain phpchain.go
    ```
 3. Pindahkan binary ke `/usr/bin`
    ```bash
