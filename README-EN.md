@@ -10,8 +10,8 @@ This project is a Go reimplementation of [Synacktiv's PHP Filter Chain Generator
 ## Installation:
 1. Clone this repository.
    ```bash
-   git clone https://github.com/username/php-filter-chain-generator-go.git
-   cd php-filter-chain-generator-go
+   git clone https://github.com/NumeXx/PHP-Filter-Chain-Generator.git
+   cd PHP-Filter-Chain-Generator
    ```
 2. Compile the code into a binary
    ```bash
