@@ -10,8 +10,8 @@ Proyek ini merupakan implementasi ulang dari [PHP Filter Chain Generator milik S
 ## Instalasi:
 1. Clone repository ini.
    ```bash
-   git clone https://github.com/username/php-filter-chain-generator-go.git
-   cd php-filter-chain-generator-go
+   git clone https://github.com/NumeXx/PHP-Filter-Chain-Generator.git
+   cd PHP-Filter-Chain-Generator
    ```
 2. Kompilasi kode menjadi binary
    ```bash
